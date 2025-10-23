@@ -4,15 +4,15 @@
 
 #### Step 1: click on "WalletConnect"
 
-![](../assets/images/tutorials/walletconnect1.png)
+![](./assets/images/tutorials/walletconnect1.png)
 
 #### Step 2: click on "Connect"
 
-![](../assets/images/tutorials/walletconnect2.png)
+![](./assets/images/tutorials/walletconnect2.png)
 
 #### Step 3: click on "Copy to clipboard"
 
-![](../assets/images/tutorials/walletconnect3.png)
+![](./assets/images/tutorials/walletconnect3.png)
 
 #### Step 4: open your eckoWALLET mobile App
 
@@ -30,15 +30,15 @@
 
 #### Step 1: click on "WalletConnect"
 
-![](../assets/images/tutorials/walletconnect1.png)
+![](./assets/images/tutorials/walletconnect1.png)
 
 #### Step 2: click on "Connect"
 
-![](../assets/images/tutorials/walletconnect2.png)
+![](./assets/images/tutorials/walletconnect2.png)
 
 #### Step 3: keep the new tab with the QR Code opened
 
-![](../assets/images/tutorials/walletconnect4-qr.png)
+![](./assets/images/tutorials/walletconnect4-qr.png)
 
 #### Step 4: open your eckoWALLET mobile App
 

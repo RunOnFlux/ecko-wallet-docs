@@ -8,4 +8,4 @@ For any other graphics or alternative sizes please contact us on Discord or Tele
 
 All the brand assets in one file.
 
-{% file src="../assets/brand-packs/eckoWALLET_brand_assets.zip" %}
+{% file src="./assets/brand-packs/eckoWALLET_brand_assets.zip" %}

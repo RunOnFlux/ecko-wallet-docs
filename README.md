@@ -2,6 +2,7 @@
 description: >-
   Powered by RunOnFlux, eckoWALLET is the #1 crypto wallet for the Kadena
   ecosystem of tokens, NFTs, and DeFi.
+cover: .gitbook/assets/walletCover.jpeg
 coverY: 0
 ---
 

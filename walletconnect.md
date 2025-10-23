@@ -2,7 +2,25 @@
 description: >-
   How to connect your iOS or Android mobile device to the eckoDEX, either using
   a Connection Code, or a QR Code.
+cover: .gitbook/assets/walletConnectCover.jpeg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # WalletConnect

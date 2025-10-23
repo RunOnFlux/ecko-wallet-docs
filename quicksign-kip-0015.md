@@ -1,3 +1,9 @@
+---
+description: >-
+  Additional quicksign endpoint to the kadena-signing-api that allows wallets to
+  show the user multiple transactions at once for signature approval.
+---
+
 # Quicksign: KIP-0015
 
 [https://github.com/kadena-io/KIPs/blob/jam/quicksign/kip-0015.md](https://github.com/kadena-io/KIPs/blob/jam/quicksign/kip-0015.md)

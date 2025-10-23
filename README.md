@@ -2,6 +2,7 @@
 description: >-
   Powered by RunOnFlux, eckoWALLET is the #1 crypto wallet for the Kadena
   ecosystem of tokens, NFTs, and DeFi.
+coverY: 0
 ---
 
 # Introduction
@@ -17,3 +18,5 @@ The functionality you know and love from the eckoWALLET Web Extension is now ava
 Buying, sending and receiving your favourite Kadena assets available on the go. We could not be more excited about the potential for mobile to empower the explosive adoption of Kadena’s DeFi and NFT ecosystems, to enable a whole new set of use cases, and to onboard a whole new set of users.
 
 #### To download the eckoWALLET mobile wallet or Web Extension go to:
+
+{% embed url="https://eckowallet.com" %}

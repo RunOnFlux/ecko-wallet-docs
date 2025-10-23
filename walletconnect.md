@@ -1,3 +1,10 @@
+---
+description: >-
+  How to connect your iOS or Android mobile device to the eckoDEX, either using
+  a Connection Code, or a QR Code.
+coverY: 0
+---
+
 # WalletConnect
 
 ### 1- Connection Code

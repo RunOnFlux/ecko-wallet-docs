@@ -1,3 +1,7 @@
+---
+description: Answers to Frequently Asked Questions
+---
+
 # FAQ
 
 ### How do I install eckoWALLET?
@@ -69,4 +73,4 @@ Anyone with your wallet's password, private keys or recovery phrase can access y
 
 ### Questions not answered - How do I contact support?
 
-Tweet us @eckoWALLET, or use our discord [https://discord.com/invite/QSJpHRFDcv](https://discord.com/invite/QSJpHRFDcv).
+Tweet us @eckoWALLET, or use our discord [https://discord.com/invite/runonflux](https://discord.com/invite/runonflux).

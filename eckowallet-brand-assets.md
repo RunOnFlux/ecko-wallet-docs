@@ -1,3 +1,7 @@
+---
+description: All the eckoWALLET brand assets
+---
+
 # eckoWALLET Brand Assets
 
 Below is our official eckoWALLET brand assets, available for anyone to use in their own materials when communicating about eckoWALLET.
